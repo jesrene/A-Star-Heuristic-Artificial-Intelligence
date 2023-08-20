@@ -17,7 +17,7 @@ This project includes the following key features:
 
 ## Getting Started
 
-To initiate your involvement with the Rubbish Disposal Path Finder, adhere to the subsequent instructions:
+To irun the Rubbish Disposal Path Finder, follow the following steps: 
 
 1. Duplicate the repository onto your local device.
 2. Open the Jupyter Notebook file ('AI_Assignment.ipynb') utilizing Jupyter Notebook or any compatible platform.
