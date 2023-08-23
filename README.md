@@ -25,3 +25,16 @@ To irun the Rubbish Disposal Path Finder, follow the following steps:
 4. Modify the input settings as needed or explore diverse configurations to investigate different scenarios.
 5. Consult the provided in-notebook documentation for comprehensive elucidations and instructions concerning utilization.
 
+## Screenshots of Visualisation 
+Hex Grid Map <br />
+<img src="https://github.com/xyoongi/A-Star-Heuristic-Artificial-Intelligence/assets/86104103/cccbf973-7713-4340-8109-929d94bbd055" width="500"/>
+<br /> 
+
+Breakdown of Actions Printed Out <br />
+<img src="https://github.com/xyoongi/A-Star-Heuristic-Artificial-Intelligence/assets/86104103/8554bc36-e5fc-45cb-81d3-b463d74d178b" width="500"/>
+<br /> 
+
+Iterations Printed Out <br />
+<img src="https://github.com/xyoongi/A-Star-Heuristic-Artificial-Intelligence/assets/86104103/c87a43de-1dca-4575-b499-6979830a9eec" width="500"/>
+<br /> 
+
